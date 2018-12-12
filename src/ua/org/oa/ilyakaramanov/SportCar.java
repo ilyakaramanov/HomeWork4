@@ -24,7 +24,7 @@ public class SportCar extends Car {
     }
 
     @Override
-    void displayСost(int i) {
+    void displayСost(int approximateCost) {
 
     }
 
