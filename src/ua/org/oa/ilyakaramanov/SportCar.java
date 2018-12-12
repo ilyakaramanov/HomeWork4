@@ -18,7 +18,7 @@ public class SportCar extends Car {
 
     void displaySpeed(int topSpeed) {
         if (speed > topSpeed) {
-            System.out.println("Спорткары со скоростью выще " + topSpeed + " - " + brand + " " + name);
+            System.out.println("Спорткары со скоростью выше " + topSpeed + " - " + brand + " " + name);
         }
 
     }
