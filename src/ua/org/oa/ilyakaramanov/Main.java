@@ -7,6 +7,9 @@ public class Main {
 
         ArrayList<Car> allCars = new ArrayList<>();                     //создаем arraylist и объекты классов
 
+        /*
+        добавляем автомобили в allCars
+         */
         allCars.add(new Sedan("Skoda", "Octavia", "Blue", 25000));
         allCars.add(new Sedan("Toyota", "Corolla", "White", 20000));
         allCars.add(new Sedan("Fiat", "Tipo", "Red", 17000));
